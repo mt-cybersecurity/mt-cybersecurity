@@ -47,4 +47,7 @@ Hi, I'm Martin
 [![Teck talk 31-01-2024](https://ytcards.demolab.com/?id=hK15CMYB1ds&title=Teck+talk+31-01-2024&lang=en&timestamp=1710036206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Teck talk 31-01-2024")](https://www.youtube.com/watch?v=hK15CMYB1ds)
 <!-- END YOUTUBE-CARDS -->
 
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/mtcybersecurity) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
