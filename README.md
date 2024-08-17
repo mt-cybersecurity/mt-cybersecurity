@@ -41,8 +41,12 @@ Hi, I'm Martin
 ## 💻 Featured YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
-
+[![DGW  CAREPACK TRAINING | 15-08-2024 |](https://ytcards.demolab.com/?id=LdSNAp7cb48&title=DGW++CAREPACK+TRAINING+%7C+15-08-2024+%7C&lang=en&timestamp=1723713497&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DGW  CAREPACK TRAINING | 15-08-2024 |")](https://www.youtube.com/watch?v=LdSNAp7cb48)
+[![HP Care Pack Training 2](https://ytcards.demolab.com/?id=kHzXTkX9R20&title=HP+Care+Pack+Training+2&lang=en&timestamp=1723543641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HP Care Pack Training 2")](https://www.youtube.com/watch?v=kHzXTkX9R20)
+[![HP Care Pack Training](https://ytcards.demolab.com/?id=5VPKDURmqao&title=HP+Care+Pack+Training&lang=en&timestamp=1722573707&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HP Care Pack Training")](https://www.youtube.com/watch?v=5VPKDURmqao)
+[![ISO - Refresh Training | 30-07-2024 |](https://ytcards.demolab.com/?id=m4U78k6GyLw&title=ISO+-+Refresh+Training+%7C+30-07-2024+%7C&lang=en&timestamp=1722404037&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ISO - Refresh Training | 30-07-2024 |")](https://www.youtube.com/watch?v=m4U78k6GyLw)
+[![1 file Word bình thường sẽ gắn được mã độc, và tôi cũng đã vượt được Antivirus của Windows](https://ytcards.demolab.com/?id=tn9csrcHmJw&title=1+file+Word+b%C3%ACnh+th%C6%B0%E1%BB%9Dng+s%E1%BA%BD+g%E1%BA%AFn+%C4%91%C6%B0%E1%BB%A3c+m%C3%A3+%C4%91%E1%BB%99c%2C+v%C3%A0+t%C3%B4i+c%C5%A9ng+%C4%91%C3%A3+v%C6%B0%E1%BB%A3t+%C4%91%C6%B0%E1%BB%A3c+Antivirus+c%E1%BB%A7a+Windows&lang=en&timestamp=1710037390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1 file Word bình thường sẽ gắn được mã độc, và tôi cũng đã vượt được Antivirus của Windows")](https://www.youtube.com/watch?v=tn9csrcHmJw)
+[![Teck talk 31-01-2024](https://ytcards.demolab.com/?id=hK15CMYB1ds&title=Teck+talk+31-01-2024&lang=en&timestamp=1710036206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Teck talk 31-01-2024")](https://www.youtube.com/watch?v=hK15CMYB1ds)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
