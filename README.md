@@ -4,7 +4,7 @@ Hi, I'm Martin
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=43&pause=1000&repeat=true&width=1500&height=58&lines=I+write+a+personal+blog+called+MT-CyberSecurity+Blog;I'm+currently+working+at+HP+Service+Center%2C+Hanoi%2C+Vietnam;I+like+to+learn+about+malware;I+also+have+a+Youtube+channel+to+upload+random+things)](https://git.io/typing-svg)
 
-💬 Ask me about anything <a href="https://github.com/anuraghazra/anuraghazra/issues">here</a>
+💬 Ask me about anything <a href="https://github.com/mt-cybersecurity/mt-cybersecurity/issues">here</a>
 
 
 ## 🌐 Socials:
